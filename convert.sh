@@ -1,4 +1,4 @@
-#Convert FASTQ files to FASTA
+#Convert FASTQ files to FASTA and edit lines
 for FILE in *.fastq
 do
 	# the command between $(...) is to remove .fastq format
